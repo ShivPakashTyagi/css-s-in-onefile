@@ -1,0 +1,31 @@
+/*  *{
+* is use to select all at time .
+    /* padding is use to seprate content from borde */
+    /* margin is use to seprate one element to other 
+    
+    } */
+   
+
+
+body{
+    background-color: aqua;
+    font-size: medium;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.heading{
+    text-align: center;
+
+}
+.box{
+    width: 200px;
+    height: 200px;
+    border: 20px solid red;
+    /* padding: 40px; */
+    padding: 40px 30px 20px 10px;
+    margin: 40px;
+
+    
+}
