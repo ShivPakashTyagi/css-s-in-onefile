@@ -1,0 +1,26 @@
+/* Font size define in upper side in css  */
+body{
+    background-color: #c4c3b3;
+    text-align: center;
+}
+main{
+    border: 5px dotted brown;
+    /* border-radius: 100px; */
+    /* width: 100%; */
+    /* /* width: 50vw;     */
+     /* vw = view width */ 
+}
+section{
+    border: 5px dashed green;
+    /* border-radius: 100px; */
+    /* width: 50%; */
+    width: 50vw;
+    /* height: 50vh; */
+}
+.header{
+    font-size: 1em;
+    /* em relate to parents  */
+    /* px vale is appsulate/* 
+    /* rem root em  */
+
+}
