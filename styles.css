@@ -1,18 +1,10 @@
-#heading {
-    color: rgb(128, 141, 141);
-    background-color: antiquewhite;
+body{
+    background-color: #e3c1c1;
+    text-align: center;
+    color: #08120ab7;
 }
-
-p {
-    font-size: 1rem;
-    font-family: cursive;
-}
-
-body {
-    background: rgb(15, 96, 71);
-}
-
-.peetoo {
-    font-family: 'Courier New', Courier, monospace;
-    border-top: 4rem;
+.height{
+    font-size: 25px;
+   
+        
 }
